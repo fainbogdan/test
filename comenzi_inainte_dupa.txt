@@ -1,0 +1,15 @@
+Rezuma tot ce este important din această conversație într-un fișier de knowledge pentru proiect.
+Include:
+- arhitectura
+- deciziile luate
+- reguli
+- logica importantă
+Scrie în format markdown clar.
+
+
+Extrage regulile de cod și convențiile într-un fișier separat.
+
+
+@KNOWLEDGE.md
+
+Folosește acest fișier ca context complet pentru proiect.
